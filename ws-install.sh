@@ -38,8 +38,8 @@ KEY=$1
 echo ""
 sudo -v
 
-LOGIN=pi
-GROUP=pi
+LOGIN=biqu
+GROUP=biqu
 USER_HOME=/home/$LOGIN
 
 AS_PI_USER="sudo -u $LOGIN"
